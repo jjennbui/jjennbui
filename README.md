@@ -5,7 +5,8 @@
 
 <h2>Technologies and Tools</h2>
 <h3>Design</h3>
-![Static Badge](https://img.shields.io/badge/InDesign-pink?logo=Adobe%20Indesign)
+<a>https://img.shields.io/badge/InDesign-pink?logo=Adobe%20Indesign</a>
+
 
 
 
