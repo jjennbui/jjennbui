@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Jenny („• ֊ •„)੭</h1> 
- <img src="https://img.shields.io/badge/Portfolio-pink?style=flat&link=https%3A%2F%2Fjjennbui.ca%2F" alt="Portfolio Badge">
+ <img align="center" src="https://img.shields.io/badge/Portfolio-black?style=flat&link=https%3A%2F%2Fjjennbui.ca%2F" alt="Portfolio Badge">
 
 
 
