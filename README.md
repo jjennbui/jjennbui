@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://jjennbui.ca/">
-        <img src="https://img.shields.io/badge/Portfolio-black?style=flat" alt="Portfolio Badge">
+        <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio!-pink?style=flat&link=https%3A%2F%2Fjjennbui.ca%2F" alt="Portfolio Badge">
     </a>
 </div>
  
