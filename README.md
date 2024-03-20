@@ -1,4 +1,12 @@
-### Hi there, I'm Jenny! („• ֊ •„)੭
+<h1 align="center">Hi! I'm Jenny („• ֊ •„)੭</h1> 
+
+✧ I am a passionate graphic and UI/UX designer who enjoys coding on the side! 
+
+
+<h2>Technologies and Tools</h2>
+<h3>Design</h3>
+https://img.shields.io/badge/InDesign-pink?logo=Adobe%20Indesign
+
 
 <!--
 **jjennbui/jjennbui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
