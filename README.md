@@ -7,7 +7,7 @@
 <h3>Design</h3>
 <div style="display: flex;">
     <img src="https://img.shields.io/badge/InDesign-pink?style=flat&logo=Adobe%20Indesign" alt="InDesign Badge">
-    <img src="https://img.shields.io/badge/Illustrator-brown?style=flat&logo=Adobe%20Illustrator" alt="Illustrator Badge">
+    <img src="https://img.shields.io/badge/Illustrator-white?style=flat&logo=Adobe%20Illustrator" alt="Illustrator Badge">
     <img src="https://img.shields.io/badge/Photoshop-blue?style=flat&logo=Adobe%20Photoshop" alt="Photoshop Badge">
     <img src="https://img.shields.io/badge/Figma-white?style=flat&logo=Figma" alt="Figma Badge">
 </div>
