@@ -5,8 +5,20 @@
 
 <h2>Technologies and Tools</h2>
 <h3>Design</h3>
-<img src="https://img.shields.io/badge/InDesign-pink?style=flat&logo=Adobe%20Indesign" alt="InDesign Badge">
-<img src="https://img.shields.io/badge/Photoshop-blue?style=flat&logo=Adobe%20Photoshop" alt="Photoshop Badge">
+<div style="display: flex;">
+    <img src="https://img.shields.io/badge/InDesign-pink?style=flat&logo=Adobe%20Indesign" alt="InDesign Badge">
+    <img src="https://img.shields.io/badge/Illustrator-brown?style=flat&logo=Adobe%20Illustrator" alt="Illustrator Badge">
+    <img src="https://img.shields.io/badge/Photoshop-blue?style=flat&logo=Adobe%20Photoshop" alt="Photoshop Badge">
+    <img src=" https://img.shields.io/badge/Figma-white?style=flat&logo=Figma" alt="Figma Badge">
+</div>
+
+<h3>Development</h3>
+<div style="display: flex;">
+    <img src="https://img.shields.io/badge/Nextjs-black?style=flat&logo=Nextdotjs" alt="Nextjs Badge">
+    <img src="https://img.shields.io/badge/HTML-white?style=flat&logo=html5" alt="HTML Badge">
+    <img src="https://img.shields.io/badge/Javascript-pink?style=flat&logo=Javascript" alt="JS Badge">
+</div>
+
 
 
 
