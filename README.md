@@ -1,6 +1,7 @@
 <h1 align="center">Hi! I'm Jenny („• ֊ •„)੭</h1> 
- <img align="center" src="https://img.shields.io/badge/Portfolio-black?style=flat&link=https%3A%2F%2Fjjennbui.ca%2F" alt="Portfolio Badge">
-
+ <div align="center">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=flat&link=https%3A%2F%2Fjjennbui.ca%2F" alt="Portfolio Badge">
+</div>
 
 
 ✧ I am a passionate graphic and UI/UX designer who enjoys coding on the side! 
