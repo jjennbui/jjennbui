@@ -6,6 +6,8 @@
 <h2>Technologies and Tools</h2>
 <h3>Design</h3>
 <img src="https://img.shields.io/badge/InDesign-pink?style=flat&logo=Adobe%20Indesign" alt="InDesign Badge">
+<img src="https://img.shields.io/badge/Photoshop-blue?style=flat&logo=Adobe%20Photoshop" alt="Photoshop Badge">
+
 
 
 
